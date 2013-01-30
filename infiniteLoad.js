@@ -35,8 +35,14 @@ ShowAll.prototype = {
   }
 }
 
-// example
+// EXAMPLES
+
 // newsfeed = new ShowAll({
 //   "target" : "#home_stream",
+//   "hide"   : "#mainContainer"
+// });
+
+// findFriends = new ShowAll({
+//   "target" : ".friendBrowserCheckboxContentGrid",
 //   "hide"   : "#mainContainer"
 // });
